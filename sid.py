@@ -1,0 +1,2 @@
+import sid
+sid.main()
